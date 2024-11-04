@@ -1,0 +1,87 @@
+ body{ 
+  /* background-color: red;  */
+     /* display: flex;  */
+   justify-content: center;
+  align-items: center; 
+  height: 100vh;
+  padding: 0%;
+  margin: 0%;
+  width: 100%;
+   text-align: center;
+} 
+
+#mainDiv{
+  width: 100%;
+  height: 100vh;
+}
+
+h1{
+  padding: 0;
+  margin: 0;
+  
+}
+
+#main{
+  position:absolute;
+  width: 100%;
+  min-height: 10vh;
+  bottom:0;
+  left: 0;
+}
+  
+ button{
+  padding: 10px;
+  margin: 2px;
+  margin-left: 5px;
+
+
+ }
+
+ .btn1{
+  background-color: red;
+  border-radius: .25rem;
+ }
+
+ .btn2{
+  background-color: green;
+ }
+
+ .btn3{
+  background-color: blue;
+ }
+
+ .btn4{
+  background-color: purple;
+ }
+
+ .btn5{
+  background-color: lime;
+ }
+
+ .btn6{
+  background-color: gray;
+ }
+
+ .btn7{
+  background-color: yellow;
+ }
+
+ .btn8{
+  background-color: pink;
+ }
+
+ .btn9{
+  background-color: slateblue;
+ }
+
+ .btn10{
+  background-color: black;
+  color: #fff;
+ }
+
+ .btn11{
+  background-color: white;
+  color:black ;
+ }
+
+ 
